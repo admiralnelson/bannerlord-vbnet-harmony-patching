@@ -1,0 +1,22 @@
+<Module>
+     <Name value="BannerLib.Input"/>
+     <Id value="BannerLib.Input"/>
+     <Version value="e1.0.3"/>
+     <SingleplayerModule value="true"/>
+     <MultiplayerModule value="false"/>
+     <DependedModules>
+    </DependedModules>
+     <SubModules>
+         <SubModule>
+             <Name value="BannerLib.Input"/>
+             <DLLName value="BannerLib.Input.dll"/>             
+             <SubModuleClassType value="BannerLib.Input.InputSubModule"/>
+             <Tags>
+                 <Tag key="DedicatedServerType" value="none" />
+                 <Tag key="IsNoRenderModeElement" value="false" />
+             </Tags>
+         </SubModule>
+     </SubModules>
+     <Xmls>
+  </Xmls>
+ </Module>

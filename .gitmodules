@@ -1,0 +1,6 @@
+[submodule "externals/bannerlib"]
+	path = externals/bannerlib
+	url = https://github.com/sirdoombox/BannerLib.git
+[submodule "externals/Harmony"]
+	path = externals/Harmony
+	url = https://github.com/pardeike/Harmony.git
